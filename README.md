@@ -1,4 +1,4 @@
-## Convolutional Neural Network and Fully-connected Perceptrons performance comparision
+## Convolutional Neural Network and Fully-connected Perceptrons performance comparison
 
 This project shows comparision between CNN and Regular Neural Nets perfomance on FashionMNIST dataset. In this project I used CNN architecture for the very first time, but the result indicates that it was successful. All the charts and inferences are located within Jupyter Notebooks' file.
 
